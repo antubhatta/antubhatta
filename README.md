@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://drive.google.com/file/d/1auzhxobl-tvIkwrUrzi_aI_ZDz5cZorB/view?usp=drive_link" alt="Web Developer">
-</div>
+![Web Developer](https://drive.google.com/uc?id=1auzhxobl-tvIkwrUrzi_aI_ZDz5cZorB)
+
 
 
 ## About Me
@@ -33,12 +32,12 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
+
+
+## 📊 Current Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antubhatta&theme=dracula&show_icons=true&locale=en&layout=compact" alt="Top Langs">
 </div>
-
-## 📊 Current Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antubhatta&theme=dracula&show_icons=true&locale=en" alt="GitHub Stats">
 </div>
@@ -48,3 +47,33 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=antubhatta&theme=dracula" alt="GitHub Streak">
   </a>
 </div>
+
+## 🌱 Projects
+
+### Project Name 1
+- Description: Brief description of the project.
+- Technologies: List of technologies used.
+- GitHub: [Link to GitHub repository]
+
+### Brand Shop Retail and E-Commerce
+- Live Link: [Brand Shop Retail and E-Commerce](https://self-module-51.web.app/)
+
+- Description: Brand Shop Retail and E-Commerce is an innovative online shopping platform that offers a unique and personalized experience for users looking to explore and purchase products from a variety of renowned brands. Our platform prioritizes user-friendly design, seamless navigation, and a secure authentication system to ensure a hassle-free shopping experience.
+
+- Technology: Html, Css, Tailwind, Javascript, React, Firebase, Mongodb, Node js.
+
+### Restaurant Management Website
+- Live Link: [Restaurant Management Website](https://restaurent-management-476f8.web.app/)
+
+- Description: The Restaurant Management Website is a comprehensive online platform designed to streamline and enhance the operations of a restaurant. It provides an engaging and user-friendly interface for customers, administrators, and restaurant staff to interact seamlessly. The website incorporates various features to facilitate menu browsing, food ordering, blog reading, user authentication, and personalized profiles.
+
+- Technology: Html, Css, Tailwind, Javascript, React, Firebase, Mongodb, Node js.
+
+### Contest Creation Platform Website
+- Live Link: [Contest Creation Platform Website](https://win-wave-12.web.app/)
+
+- Description: WinWave is a revolutionary online platform that brings together creativity, innovation, and talent recognition in one seamless experience. Designed to cater to a diverse range of domains, ContestHub provides users with a dynamic and user-friendly interface to create, participate in, and celebrate various contests. From design competitions to coding challenges, ContestHub is the go-to destination for anyone looking to showcase their skills or discover new talents.
+
+- Technology: Html, Css, Tailwind, Javascript, React, Firebase, Mongodb, Node js.
+
+
