@@ -50,11 +50,6 @@
 
 ## 🌱 Projects
 
-### Project Name 1
-- Description: Brief description of the project.
-- Technologies: List of technologies used.
-- GitHub: [Link to GitHub repository]
-
 ### Brand Shop Retail and E-Commerce
 - Live Link: [Brand Shop Retail and E-Commerce](https://self-module-51.web.app/)
 
