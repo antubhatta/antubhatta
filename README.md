@@ -1,7 +1,7 @@
 ![Web Developer](https://drive.google.com/uc?id=1auzhxobl-tvIkwrUrzi_aI_ZDz5cZorB)
 
 <h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antu Bhatta</h1>
-<h3 align="center">I'm a passionate Mern Stack Developer from Bangladesh.</h3>
+
 
 ## 🙋‍♂️ About Me
  - I'm a MERN stack developer passionate about crafting web experiences. From structuring the front end with HTML, CSS, and Tailwind CSS to bringing interactivity with JavaScript and React, I love building seamless user interfaces. On the backend, I rely on Node.js and MongoDB, while Firebase adds its magic to the mix. Turning ideas into functional, elegant code is what fuels my enthusiasm. Let's create something awesome together!
@@ -45,8 +45,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/antubhatta/github-readme-stats"><img alt="antubhatta" src="https://github-readme-stats.vercel.app/api?username=antubhatta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/antubhatta/github-readme-stats"><img alt="antubhatta" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antubhatta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/antubhatta/github-readme-stats"><img alt="antubhatta" src="https://github-readme-stats.vercel.app/api?username=antubhatta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  <a href="https://github.com/antubhatta/github-readme-stats"><img alt="antubhatta" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antubhatta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <br/>
 
   ## ❤ Views and Followers
