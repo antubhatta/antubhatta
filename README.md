@@ -1,13 +1,13 @@
 ![Web Developer](https://drive.google.com/uc?id=1auzhxobl-tvIkwrUrzi_aI_ZDz5cZorB)
 
+<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antu Bhatta</h1>
+<h3 align="center">I'm a passionate Mern Stack Developer from Bangladesh.</h3>
 
-
-## About Me
-- Hi there 👋, I'm Antu Bhatta.
+## 🙋‍♂️ About Me
  - I'm a MERN stack developer passionate about crafting web experiences. From structuring the front end with HTML, CSS, and Tailwind CSS to bringing interactivity with JavaScript and React, I love building seamless user interfaces. On the backend, I rely on Node.js and MongoDB, while Firebase adds its magic to the mix. Turning ideas into functional, elegant code is what fuels my enthusiasm. Let's create something awesome together!
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antubhatta&label=Profile%20views&color=0e75b6&style=flat" alt="antubhatta" /> </p>
+
 
 ### Connect with me:
 
@@ -18,7 +18,7 @@
   
 </p>
 
-## 💼 Technologies & Tools
+## 🚀 Languages and Tools:
 
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -35,36 +35,43 @@
 
 
 ## 📊 Current Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antubhatta&theme=dracula&show_icons=true&locale=en&layout=compact" alt="Top Langs">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antubhatta&theme=dracula&show_icons=true&locale=en" alt="GitHub Stats">
-</div>
+<br/>
+<p align="center">
+    <a href="https://github.com/antubhatta/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="antubhatta" src="https://github-readme-streak-stats.herokuapp.com/?user=antubhatta&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=antubhatta&theme=dracula" alt="GitHub Streak">
-  </a>
-</div>
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/antubhatta/github-readme-stats"><img alt="antubhatta" src="https://github-readme-stats.vercel.app/api?username=antubhatta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/antubhatta/github-readme-stats"><img alt="antubhatta" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antubhatta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+  ## ❤ Views and Followers
+<a href="https://github.com/antubhatta/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antubhatta">
+</a>
+<a href="https://github.com/antubhatta?tab=followers"><img src="https://img.shields.io/github/followers/antubhatta?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## 🌱 Projects
 
-### Brand Shop Retail and E-Commerce
+## Project 1: [Brand Shop Retail and E-Commerce] 
 - Live Link: [Brand Shop Retail and E-Commerce](https://self-module-51.web.app/)
 
 - Description: Brand Shop Retail and E-Commerce is an innovative online shopping platform that offers a unique and personalized experience for users looking to explore and purchase products from a variety of renowned brands. Our platform prioritizes user-friendly design, seamless navigation, and a secure authentication system to ensure a hassle-free shopping experience.
 
 - Technology: Html, Css, Tailwind, Javascript, React, Firebase, Mongodb, Node js.
 
-### Restaurant Management Website
+## Project 2: [Restaurant Management Website]  
 - Live Link: [Restaurant Management Website](https://restaurent-management-476f8.web.app/)
 
 - Description: The Restaurant Management Website is a comprehensive online platform designed to streamline and enhance the operations of a restaurant. It provides an engaging and user-friendly interface for customers, administrators, and restaurant staff to interact seamlessly. The website incorporates various features to facilitate menu browsing, food ordering, blog reading, user authentication, and personalized profiles.
 
 - Technology: Html, Css, Tailwind, Javascript, React, Firebase, Mongodb, Node js.
 
-### Contest Creation Platform Website
+## Project 3: [Contest Creation Platform Website]  
 - Live Link: [Contest Creation Platform Website](https://win-wave-12.web.app/)
 
 - Description: WinWave is a revolutionary online platform that brings together creativity, innovation, and talent recognition in one seamless experience. Designed to cater to a diverse range of domains, ContestHub provides users with a dynamic and user-friendly interface to create, participate in, and celebrate various contests. From design competitions to coding challenges, ContestHub is the go-to destination for anyone looking to showcase their skills or discover new talents.
